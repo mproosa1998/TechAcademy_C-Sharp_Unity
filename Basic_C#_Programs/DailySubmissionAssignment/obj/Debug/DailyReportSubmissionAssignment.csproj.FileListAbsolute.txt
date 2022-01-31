@@ -1,0 +1,7 @@
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe.config
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.pdb
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\VariablesAndDataTypes\obj\Debug\DailyReportSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\VariablesAndDataTypes\obj\Debug\DailyReportSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.exe
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.pdb
