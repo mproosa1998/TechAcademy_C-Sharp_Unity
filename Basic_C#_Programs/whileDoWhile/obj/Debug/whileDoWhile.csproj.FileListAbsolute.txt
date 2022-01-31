@@ -1,0 +1,7 @@
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\whileDoWhile\bin\Debug\whileDoWhile.exe.config
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\whileDoWhile\bin\Debug\whileDoWhile.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\whileDoWhile\bin\Debug\whileDoWhile.pdb
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\whileDoWhile\obj\Debug\whileDoWhile.csproj.AssemblyReference.cache
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\whileDoWhile\obj\Debug\whileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\whileDoWhile\obj\Debug\whileDoWhile.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\whileDoWhile\obj\Debug\whileDoWhile.pdb
