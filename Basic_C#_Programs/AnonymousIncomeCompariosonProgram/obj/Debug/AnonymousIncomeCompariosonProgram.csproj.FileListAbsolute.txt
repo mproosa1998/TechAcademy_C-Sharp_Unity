@@ -1,0 +1,7 @@
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\AnonymousIncomeCompariosonProgram\obj\Debug\AnonymousIncomeCompariosonProgram.csproj.AssemblyReference.cache
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\AnonymousIncomeCompariosonProgram\obj\Debug\AnonymousIncomeCompariosonProgram.csproj.CoreCompileInputs.cache
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\AnonymousIncomeCompariosonProgram\bin\Debug\AnonymousIncomeCompariosonProgram.exe.config
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\AnonymousIncomeCompariosonProgram\bin\Debug\AnonymousIncomeCompariosonProgram.exe
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\AnonymousIncomeCompariosonProgram\bin\Debug\AnonymousIncomeCompariosonProgram.pdb
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\AnonymousIncomeCompariosonProgram\obj\Debug\AnonymousIncomeCompariosonProgram.exe
+C:\Users\mproo\Documents\GitHub\Basic_C#_Programs\AnonymousIncomeCompariosonProgram\obj\Debug\AnonymousIncomeCompariosonProgram.pdb
