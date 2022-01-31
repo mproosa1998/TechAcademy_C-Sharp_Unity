@@ -11,7 +11,7 @@ namespace sixPart_Iteration_Assignment
             string[] lotsOStrings = { "waffle", "jazz", "car", "cat", "star", "frank" };
             Console.WriteLine("Enter text input:");
             string userInput = Console.ReadLine();
-            for ( int i=0; i<lotsOStrings.Length;i++)
+            for (int i = 0; i < lotsOStrings.Length; i++)
             {
                 lotsOStrings[i] += userInput;
                 Console.WriteLine(lotsOStrings[i]);
@@ -19,10 +19,10 @@ namespace sixPart_Iteration_Assignment
 
             // Part 2
             bool escapeClause = false;
-            while(!escapeClause)
+            while (!escapeClause)
             {
                 Console.WriteLine("type ENTER to end loop:");
-                if(Console.ReadLine() == "ENTER")
+                if (Console.ReadLine() == "ENTER")
                 {
                     escapeClause = true;
                 }
@@ -37,20 +37,20 @@ namespace sixPart_Iteration_Assignment
             }
 
             iteration = 0;
-            while(iteration <= 5)
+            while (iteration <= 5)
             {
                 Console.WriteLine(iteration);
                 iteration++;
             }
 
             // Part 4
-            HashSet<string> UniqueStrings = new HashSet<string>{ "waffle", "jazz", "car", "cat", "star", "frank" };
+            HashSet<string> UniqueStrings = new HashSet<string> { "waffle", "jazz", "car", "cat", "star", "frank" };
             Console.WriteLine("\n\nEnter a keyword to search list:");
             string keyword = Console.ReadLine();
             bool keywordFound = false;
-            foreach(string uniqueString in UniqueStrings)
+            foreach (string uniqueString in UniqueStrings)
             {
-                if(uniqueString == keyword)
+                if (uniqueString == keyword)
                 {
                     keywordFound = true;
                     continue;
@@ -75,17 +75,18 @@ namespace sixPart_Iteration_Assignment
                 if (repeatedStrings[i] == keyword)
                 {
                     keywordFound = true;
-                    Console.WriteLine(keyword + " found at index: " +repeatedStrings[i]);
+                    Console.WriteLine(keyword + " found at index: " +i);
                 }
             }
             if(!keywordFound)
             {
                 Console.WriteLine(keyword + " was not found in the list");
             }
+            Console.WriteLine("\n\n");
 
             // Part 6
             string[] lastStrings = { "waffle", "jazz", "car", "waffle", "cat", "star", "frank" };
-            List<string> hasParsed = null;
+            List<string> hasParsed = new List<string>();
             foreach(string laststring in lastStrings)
             {
                 bool hasRepeated = false;
