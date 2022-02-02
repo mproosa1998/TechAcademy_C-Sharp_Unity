@@ -1,0 +1,7 @@
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\Method Assignment 2\bin\Debug\Method Assignment 2.exe.config
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\Method Assignment 2\bin\Debug\Method Assignment 2.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\Method Assignment 2\bin\Debug\Method Assignment 2.pdb
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\Method Assignment 2\obj\Debug\Method Assignment 2.csproj.AssemblyReference.cache
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\Method Assignment 2\obj\Debug\Method Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\Method Assignment 2\obj\Debug\Method Assignment 2.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\Method Assignment 2\obj\Debug\Method Assignment 2.pdb
