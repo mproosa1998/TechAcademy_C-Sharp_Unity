@@ -11,7 +11,7 @@ namespace BlackJack
         static void Main()
         {
             Deck deck = new Deck();
-            deck = Shuffle.ShuffleDeck(deck, times: 5);
+            deck.Shuffle(5);
 
             foreach(Card card in deck.Cards)
             {
