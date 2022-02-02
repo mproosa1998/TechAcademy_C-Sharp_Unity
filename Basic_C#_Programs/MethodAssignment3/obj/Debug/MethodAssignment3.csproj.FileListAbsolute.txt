@@ -1,0 +1,6 @@
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\MethodAssignment3\bin\Debug\MethodAssignment3.exe.config
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\MethodAssignment3\bin\Debug\MethodAssignment3.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\MethodAssignment3\bin\Debug\MethodAssignment3.pdb
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\MethodAssignment3\obj\Debug\MethodAssignment3.csproj.CoreCompileInputs.cache
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\MethodAssignment3\obj\Debug\MethodAssignment3.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\MethodAssignment3\obj\Debug\MethodAssignment3.pdb
