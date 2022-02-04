@@ -1,0 +1,6 @@
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\AbstractAssignment\bin\Debug\AbstractAssignment.exe.config
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\AbstractAssignment\bin\Debug\AbstractAssignment.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\AbstractAssignment\bin\Debug\AbstractAssignment.pdb
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\AbstractAssignment\obj\Debug\AbstractAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\AbstractAssignment\obj\Debug\AbstractAssignment.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\AbstractAssignment\obj\Debug\AbstractAssignment.pdb
