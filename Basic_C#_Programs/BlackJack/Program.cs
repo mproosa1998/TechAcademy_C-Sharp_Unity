@@ -11,8 +11,9 @@ namespace BlackJack
         static void Main()
         {
             BlackjackGame game = new BlackjackGame();
-            game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
             game.ListPlayers();
+
             Deck deck = new Deck();
             deck.Shuffle(5);
 
