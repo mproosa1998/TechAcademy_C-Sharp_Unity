@@ -17,6 +17,7 @@ namespace ClassMethod
             int answer;
             MathAgain.mathy(3,out answer,2);
             Console.WriteLine(answer);
+            staticMath.SimpleMethod();
 
             Console.Read();
         }
