@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlackJack
+namespace Polymorphism_Interface_Assignment
 {
-    interface IWalkAway
+    public interface IQuittable
     {
-        void WalkAway(Player player);
+        void Quit();
     }
 }
