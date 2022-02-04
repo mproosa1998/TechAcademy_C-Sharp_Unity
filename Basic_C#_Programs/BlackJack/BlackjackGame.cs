@@ -8,5 +8,9 @@ namespace BlackJack
 {
     public class BlackjackGame : Game
     {
+        public void Play()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

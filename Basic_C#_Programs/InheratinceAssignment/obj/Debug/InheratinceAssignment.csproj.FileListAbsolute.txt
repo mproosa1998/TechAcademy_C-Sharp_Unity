@@ -1,0 +1,6 @@
+C:\Users\mproo\source\repos\InheratinceAssignment\bin\Debug\InheratinceAssignment.exe.config
+C:\Users\mproo\source\repos\InheratinceAssignment\bin\Debug\InheratinceAssignment.exe
+C:\Users\mproo\source\repos\InheratinceAssignment\bin\Debug\InheratinceAssignment.pdb
+C:\Users\mproo\source\repos\InheratinceAssignment\obj\Debug\InheratinceAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mproo\source\repos\InheratinceAssignment\obj\Debug\InheratinceAssignment.exe
+C:\Users\mproo\source\repos\InheratinceAssignment\obj\Debug\InheratinceAssignment.pdb
