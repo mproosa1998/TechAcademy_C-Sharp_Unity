@@ -1,0 +1,7 @@
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.exe.config
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\OperatorOverloadingAssignment\bin\Debug\OperatorOverloadingAssignment.pdb
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.csproj.AssemblyReference.cache
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\OperatorOverloadingAssignment\obj\Debug\OperatorOverloadingAssignment.pdb
