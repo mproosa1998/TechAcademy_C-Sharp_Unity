@@ -10,12 +10,7 @@ namespace BlackJack
     {
         static void Main()
         {
-            Game game = new BlackjackGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game += player;
-            game -= player;
+            
             Deck deck = new Deck();
             deck.Shuffle(5);
 

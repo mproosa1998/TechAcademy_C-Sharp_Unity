@@ -1,0 +1,7 @@
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\GenericParameters\bin\Debug\GenericParameters.exe.config
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\GenericParameters\bin\Debug\GenericParameters.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\GenericParameters\bin\Debug\GenericParameters.pdb
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\GenericParameters\obj\Debug\GenericParameters.csproj.AssemblyReference.cache
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\GenericParameters\obj\Debug\GenericParameters.csproj.CoreCompileInputs.cache
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\GenericParameters\obj\Debug\GenericParameters.exe
+C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\GenericParameters\obj\Debug\GenericParameters.pdb
