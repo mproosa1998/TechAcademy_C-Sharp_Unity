@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.IO;
 
 namespace BlackJack
 {
@@ -13,7 +14,12 @@ namespace BlackJack
         public void Deal(List<Card> Hand)
         {
             Hand.Add(Deck.Cards.First());
-            Console.WriteLine(Deck.Cards.First());
+            string card = Deck.Cards.First().ToString();
+            Console.WriteLine(card);
+            using(StreamWriter file = new StreamWriter(@"C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\BlackJack\Log.txt", true))
+            {
+                file.WriteLine(card);
+            }
             Deck.Cards.RemoveAt(0);
         }
     }

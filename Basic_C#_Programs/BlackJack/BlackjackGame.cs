@@ -146,12 +146,12 @@ namespace BlackJack
                 }
                 else
                 {
-                    Console.WriteLine("Dealer Wins {0]!", Bets[player]);
+                    Console.WriteLine("Dealer Wins {0}!", Bets[player]);
                     Dealer.Balance += Bets[player];
                 }
                 Console.WriteLine("Play again?");
                 string answer = Console.ReadLine().ToLower();
-                if (answer == "yes")
+                if (answer == "yes" || answer=="y")
                 {
                     player.isActivelyPlaying = true;
                 }
