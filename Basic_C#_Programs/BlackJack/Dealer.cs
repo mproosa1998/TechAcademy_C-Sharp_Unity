@@ -18,7 +18,9 @@ namespace BlackJack
             Console.WriteLine(card);
             using(StreamWriter file = new StreamWriter(@"C:\Users\mproo\Documents\GitHub\TechAcademy_C-Sharp_Unity\Basic_C#_Programs\BlackJack\Log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
+
             }
             Deck.Cards.RemoveAt(0);
         }
